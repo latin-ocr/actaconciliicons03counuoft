@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./actaconciliicons03counuoft_0011.png"; bbox 0 0 2178 3404; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 729 894 1291 956">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 729 894 1291 956">
+     <span class='ocr_line' id='line_1_1' title="bbox 729 894 1291 956; baseline 0 -11"><span class='ocrx_word' id='word_1_1' title='bbox 729 896 828 946; x_wconf 80' lang='lat' dir='ltr'>Der</span> <span class='ocrx_word' id='word_1_2' title='bbox 869 894 1291 956; x_wconf 75' lang='lat' dir='ltr'>hochw‘urdigen</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 344 1022 1661 1234">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 344 1022 1661 1234">
+     <span class='ocr_line' id='line_1_2' title="bbox 344 1022 1661 1108; baseline -0.002 -15"><span class='ocrx_word' id='word_1_3' title='bbox 344 1022 1288 1108; x_wconf 69' lang='lat' dir='ltr'>katholisch-theologischen</span> <span class='ocrx_word' id='word_1_4' title='bbox 1347 1023 1661 1092; x_wconf 67' lang='lat' dir='ltr'>Fakult&#39;eit</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 540 1163 1466 1234; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 540 1164 662 1234; x_wconf 75' lang='lat' dir='ltr'>der</span> <span class='ocrx_word' id='word_1_6' title='bbox 715 1164 1130 1234; x_wconf 65' lang='lat' dir='ltr'>Universit’eit</span> <span class='ocrx_word' id='word_1_7' title='bbox 1183 1163 1466 1234; x_wconf 75' lang='lat' dir='ltr'>Breslau</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 193 1307 1823 1372">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 193 1307 1823 1372">
+     <span class='ocr_line' id='line_1_4' title="bbox 193 1307 1823 1372; baseline 0.001 -15"><span class='ocrx_word' id='word_1_8' title='bbox 193 1309 241 1363; x_wconf 82' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_9' title='bbox 284 1308 646 1359; x_wconf 79' lang='lat' dir='ltr'>Dankbarkeit</span> <span class='ocrx_word' id='word_1_10' title='bbox 686 1308 766 1359; x_wconf 72' lang='lat' dir='ltr'>fijr</span> <span class='ocrx_word' id='word_1_11' title='bbox 806 1308 888 1358; x_wconf 78' lang='lat' dir='ltr'>die</span> <span class='ocrx_word' id='word_1_12' title='bbox 931 1307 1249 1370; x_wconf 73' lang='lat' dir='ltr'><strong>Verleihung</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1289 1309 1381 1359; x_wconf 80' lang='lat' dir='ltr'>der</span> <span class='ocrx_word' id='word_1_14' title='bbox 1420 1310 1823 1372; x_wconf 68' lang='lat' dir='ltr'>theologischen</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 808 1426 1211 1482">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 808 1426 1211 1482">
+     <span class='ocr_line' id='line_1_5' title="bbox 808 1426 1211 1482; baseline -0.005 -5"><span class='ocrx_word' id='word_1_15' title='bbox 808 1426 1211 1482; x_wconf 67' lang='lat' dir='ltr'>Doktorwfirde.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
